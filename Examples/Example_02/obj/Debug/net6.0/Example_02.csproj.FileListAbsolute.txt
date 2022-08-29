@@ -1,0 +1,15 @@
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\obj\Debug\net6.0\Example_02.csproj.AssemblyReference.cache
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\obj\Debug\net6.0\Example_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\obj\Debug\net6.0\Example_02.AssemblyInfoInputs.cache
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\obj\Debug\net6.0\Example_02.AssemblyInfo.cs
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\obj\Debug\net6.0\Example_02.csproj.CoreCompileInputs.cache
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\bin\Debug\net6.0\Example_02.exe
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\bin\Debug\net6.0\Example_02.deps.json
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\bin\Debug\net6.0\Example_02.runtimeconfig.json
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\bin\Debug\net6.0\Example_02.dll
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\bin\Debug\net6.0\Example_02.pdb
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\obj\Debug\net6.0\Example_02.dll
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\obj\Debug\net6.0\refint\Example_02.dll
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\obj\Debug\net6.0\Example_02.pdb
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\obj\Debug\net6.0\Example_02.genruntimeconfig.cache
+D:\Documents\Обучение GeekBrains\VSCode\Знакомство с языками программирования\Seminar_8\Examples\Example_02\obj\Debug\net6.0\ref\Example_02.dll
